@@ -64,11 +64,8 @@ LandingPage/
 
 Screenshots:
 
-### Home Section  
-![Home Section](images/home-preview.png)
+![work5](https://github.com/user-attachments/assets/12113caf-956d-4ddf-ab78-46d3207083c6)
 
-### Features Section  
-![Features Section](images/features-preview.png)
 
 ---
 
