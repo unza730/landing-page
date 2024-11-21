@@ -60,7 +60,7 @@ LandingPage/
 
 ## 🖼️ Preview
 
-**Live Demo**: [View Here]([https://your-live-demo-link.com](https://landing-page-lovat-omega.vercel.app/))
+**Live Demo**: [View Here]([https://landing-page-lovat-omega.vercel.app/])
 
 Screenshots:
 
