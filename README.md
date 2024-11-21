@@ -74,4 +74,4 @@ Screenshots:
 If you have any questions or suggestions, feel free to reach out:
 
 - **Email**: [unzasohail019@gmail.com](mailto:unzasohail019@gmail.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/unza730)
+- **GitHub**: https://github.com/unza730
